@@ -12,7 +12,7 @@ Vcs-Type: svn
 Vcs-Url: http://sensorflo-emacs.googlecode.com/svn/trunk/adoc-mode
 Vcs-Browser: http://code.google.com/p/sensorflo-emacs/source/browse/
 Homepage: http://code.google.com/p/adoc-mode/
-Wiki: http://www.emacswiki.org/emacs/
+Wiki: http://www.emacswiki.org/emacs/AsciiDoc
 Commentary: adoc-mode.el
 X-Development:
  The author also has project set up at
