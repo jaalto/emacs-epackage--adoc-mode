@@ -1,0 +1,26 @@
+Package: adoc-mode
+Section: extensions wp
+License: GPL-2+
+Depends: emacs (>= 22)
+Status: stable
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Florian Kaufmann <sensorflo@gmail.com>
+Upstream-Bugs:
+Vcs-Type: svn
+Vcs-Url: http://sensorflo-emacs.googlecode.com/svn/trunk/adoc-mode
+Vcs-Browser: http://code.google.com/p/sensorflo-emacs/source/browse/
+Homepage: http://code.google.com/p/adoc-mode/
+Wiki: http://www.emacswiki.org/emacs/
+Commentary: adoc-mode.el
+X-Development:
+ The author also has project set up at
+ <http://code.google.com/p/adoc-mode/> but is not necessarily
+ in sych with author's homepage Vcs-Url. Use Vcs-Url.
+Description: major-mode for editing AsciiDoc files
+ Syntax highlighting help for editing ASciiDoc file. For more
+ information about markup syntax, see
+ <http://www.methods.co.nz/asciidoc/>.
+ .
+ Activate mode with M-x adoc-mode.
