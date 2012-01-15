@@ -1,2 +1,2 @@
-(require 'adoc-mode-epkg-0loaddefs)
-(provide 'adoc-mode-epkg-install)
+(require 'adoc-mode-epackage-0loaddefs)
+(provide 'adoc-mode-epackage-install)

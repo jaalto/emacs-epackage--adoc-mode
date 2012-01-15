@@ -49,4 +49,4 @@
 (autoload 'adoc-entity-to-string                "adoc-mode" "" nil)
 (autoload 'adoc-calc                            "adoc-mode" "" t)
 (autoload 'adoc-mode                            "adoc-mode" "" t)
-(provide 'adoc-mode-epkg-autoloads)
+(provide 'adoc-mode-epackage-autoloads)
