@@ -15,9 +15,7 @@ Homepage: http://code.google.com/p/adoc-mode/
 Wiki: http://www.emacswiki.org/emacs/AsciiDoc
 Commentary: adoc-mode.el
 X-Development:
- The author also has project set up at
- <http://code.google.com/p/adoc-mode/> but is not necessarily
- in sych with author's homepage Vcs-Url. Use Vcs-Url.
+ 2012-01-18 Upstream email address confirmed.
 Description: major-mode for editing AsciiDoc markup files
  Syntax highlighting help for editing ASciiDoc file. For more
  information about markup syntax, see
