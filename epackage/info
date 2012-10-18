@@ -8,8 +8,8 @@ Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
 Upstream: Florian Kaufmann <sensorflo@gmail.com>
 Upstream-Bugs:
-Vcs-Type: svn
-Vcs-Url: http://sensorflo-emacs.googlecode.com/svn/trunk/adoc-mode
+Vcs-Type: git
+Vcs-Url: git://github.com/sensorflo/adoc-mode.git
 Vcs-Browser: http://code.google.com/p/sensorflo-emacs/source/browse/
 Homepage: http://code.google.com/p/adoc-mode/
 Wiki: http://www.emacswiki.org/emacs/AsciiDoc
